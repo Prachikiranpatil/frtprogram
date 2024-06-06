@@ -53,6 +53,13 @@ online clothes shopping webpage
             
         </section>
     </main>
+     <footer>
+        <p> & copy;2024 Online Clothes Shop.All rights reserved.</p>
+    </footer>
+    <script src="scripts.js"></script>
+    </body>
+    </html>
+    
     body{
     font-family:Arial,  sans-serif;
     margin:0;
@@ -116,10 +123,7 @@ online clothes shopping webpage
         width: 100%; 
         bottom:0;}
     
-    <footer>
-        <p> & copy;2024 Online Clothes Shop.All rights reserved.</p>
-    </footer>
-    <script src="scripts.js"></script>
+   
     function addtocart(productname){ alert(productname+" has been added to your cart!");}
-</body>function addtocart(productname){ alert(productname+" has been added to your cart!");}function addtocart(productname){ alert(productname+" has been added to your cart!");}
-</html>
+
+
