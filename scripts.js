@@ -1,0 +1,1 @@
+function addtocart(productname){ alert(productname+"has been added to your cart!");}
