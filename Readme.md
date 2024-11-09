@@ -1,5 +1,5 @@
 
-![Screenshot_2024-06-11-22-12-08-343_com gallery player](https://github.com/Prachikiranpatil/frtprogram/assets/171247270/e79d0036-9667-43c2-a6a9-e550c90315ab)
+
 ![Screenshot_2024-06-11-22-12-14-577_com gallery player](https://github.com/Prachikiranpatil/frtprogram/assets/171247270/1ad549a4-2a6c-439a-92d4-8c739a7b6f6e)
 ![Screenshot_2024-06-11-22-12-22-631_com gallery player](https://github.com/Prachikiranpatil/frtprogram/assets/171247270/e990f18d-b131-4cd9-9a25-d0a268a5794a)
 ![Screenshot_2024-06-11-22-12-30-174_com gallery player](https://github.com/Prachikiranpatil/frtprogram/assets/171247270/e349f579-edce-48fa-890b-8e2cb68d354a)
